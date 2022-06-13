@@ -1,0 +1,8 @@
+.slide {
+  display: none;
+  width: 100%;
+}
+
+.slide.showing {
+  display: block;
+}
