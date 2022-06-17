@@ -4,7 +4,7 @@ import './App.css';
 
 import Slider from './Slider';
 
-import contentManifest from '../assets/images/content-manifest';
+import contentManifest from '../content-manifest';
 
 const App = () => {
   const { display } = useParams();
